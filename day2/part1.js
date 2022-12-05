@@ -1,8 +1,7 @@
 const input = require("./input");
 
-/* const example = `B Z
-A Z
-C X
+/* const example = `A Y
+B X
 C Z` */
 
 const rounds = input.split("\n");
