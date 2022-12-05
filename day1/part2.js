@@ -1,4 +1,4 @@
-const input = require('./part1-input');
+const input = require('./input');
 const itemsByElf = input.split('\n\n').map(elfFood => elfFood.split('\n'));
 
 function sum(a, b) {
